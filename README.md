@@ -23,6 +23,6 @@ FastAPI 서버 실행
 main.py실행
 Terminal에서 D:\pythonWorkSpace > uvicorn main:app --reload --port 8001 (위치확인)
 
-#######################################################################################
+# 실시간 영상 스트리밍 서비스
 
 ![image](https://github.com/user-attachments/assets/0ded43e0-03c7-400a-bfa0-a60351a2b96b)
